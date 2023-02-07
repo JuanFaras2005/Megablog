@@ -8,5 +8,5 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 * Trucos locos del profesor
 * Las multiples personalidades del profesor Freddy
 * Creado por Juanito
-
+* Ejemplos Linux y Mac
 Recordatorio muy amable es que **Este Read.md es un chiste**. Diseeñado para el ejemplo del curso de Platzi.
